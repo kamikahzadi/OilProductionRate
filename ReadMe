@@ -1,7 +1,7 @@
 Hello ! My name is Kamyab Kahzadvand and I am going to take you into one of my projects in oil and gas industry,
 
 Nowdays there have been variaty of petroleum engineering software which can evaluate oil & gas reservoirs in oil and gas industry.
-In this project, Im going to implement machine learning algorithms by python in order to evaluate and history match the reservoir. 
+In this project, Im going to implement machine learning algorithms by python evaluate and history match the reservoir. 
 
 
 #Scikit-learn #xgboost #numpy #pandas #matplotlib #seaborn #oilproductionRate #HistoryMatching #petroleumengineering #reservoirengineering
